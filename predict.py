@@ -1,3 +1,5 @@
+# Madushan Pussella-Image Classification
+ 
 from PIL import Image
 import numpy as np
 import train
